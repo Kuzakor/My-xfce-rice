@@ -1,2 +1,3 @@
-# My-xfce-rice
+# My nord xfce rice
+
 
